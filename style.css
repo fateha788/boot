@@ -1,0 +1,7 @@
+.carousel-item{
+    height: 90vh;
+    background-size: cover;
+}
+.col img{
+    width: 16rem;
+}
